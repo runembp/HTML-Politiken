@@ -1,0 +1,102 @@
+.aboveLogo
+{
+    display: inline-block;
+    padding: 10px;
+}
+
+.belowLogo
+{
+    display: inline-block;
+    padding: 9px;
+}
+
+.centeredColumns
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centeredText
+{
+    text-align: center;
+}
+
+.alignTextLeft
+{
+    text-align: left;
+}
+
+.green-square
+{
+    background-color: green;
+}
+
+.borderDashed
+{
+    border: black dashed;
+}
+
+.borderSolid
+{
+    border: black solid
+}
+
+.float
+{
+    float: right;
+    font-size: small;
+    border-width: thin;
+}
+
+.politiken
+{
+    width: 100%;
+    font-size: 125px;
+    alignment: center;
+    text-align: center;
+}
+
+.redP
+{
+    background: white;
+    color: red;
+}
+
+.threefocus
+{
+    border-collapse: separate;
+    border-spacing: 50px;
+}
+
+.focus
+{
+    display: inline-block;
+    padding: 5px 10px 5px 10px;
+    border: black solid;
+}
+
+.margins
+{
+    text-align-all: end;
+}
+
+.redFont
+{
+    color: red;
+}
+
+.yellowBox
+{
+    background: yellow;
+    color: black;
+    border: solid yellow;
+}
+
+.box {
+    padding: 0 15px 0 15px;
+}
+
+.borderThin
+{
+    border: thin solid black;
+}
